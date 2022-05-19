@@ -1,0 +1,41 @@
+body {
+    width: 375px;
+    box-sizing: border-box;
+    background-color: hsl(217, 54%, 11%);
+}
+
+.content-main {
+
+}
+
+.content-head, .content-desc, .content-eth, .content-timeline, .content-citation {
+    font-family: Outline, sans-serif;
+
+}
+
+.content-head {
+    color: white;
+
+}
+
+.content-desc {
+    color: hsl(215, 51%, 70%);
+
+}
+
+.content-eth {
+    color: hsl(178, 100%, 50%);
+
+}
+
+.content-timeline {
+    color: hsl(215, 51%, 70%);
+
+}
+
+.content-citation {
+    
+
+}
+
+.content
